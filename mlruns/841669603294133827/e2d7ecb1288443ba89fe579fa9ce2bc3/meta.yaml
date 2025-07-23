@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Ml-project/ml_project/mlruns/841669603294133827/e2d7ecb1288443ba89fe579fa9ce2bc3/artifacts
+end_time: 1753250697566
+entry_point_name: ''
+experiment_id: '841669603294133827'
+lifecycle_stage: active
+run_id: e2d7ecb1288443ba89fe579fa9ce2bc3
+run_name: fortunate-grouse-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753250686357
+status: 3
+tags: []
+user_id: srava

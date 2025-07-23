@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Ml-project/ml_project/mlruns/841669603294133827/e335ee8c254a474b9d886d5527555729/artifacts
+end_time: 1753251026159
+entry_point_name: ''
+experiment_id: '841669603294133827'
+lifecycle_stage: active
+run_id: e335ee8c254a474b9d886d5527555729
+run_name: valuable-crow-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251020989
+status: 3
+tags: []
+user_id: srava
